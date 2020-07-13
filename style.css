@@ -1,0 +1,146 @@
+
+    #background-image {
+      /* The image used */
+      background-image:url(https://img.wallpapersafari.com/desktop/1920/1080/37/45/CVMqWX.jpg);
+    
+      /* Set a specific height */
+      min-height: 650px; 
+    
+      /* Create the parallax scrolling effect */
+      background-attachment: fixed;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      
+    }
+    #background-image2 {
+      /* The image used */
+      background-image: url('bath2.jpg');
+    
+      /* Set a specific height */
+      min-height: 550px; 
+    
+      /* Create the parallax scrolling effect */
+      background-attachment: fixed;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+    }
+    
+    .main-head{
+        text-align: center;
+        margin-left: 270px;
+    }
+    #product{
+        text-align: center;
+        padding-top: 60px;
+        padding-left: 160px;
+        padding-right: 160px;
+        padding-bottom: 100px;
+        
+    }
+    .cata{
+        text-align: center;
+        margin-top: 40px;
+        margin-left: 30px;
+        margin-right: 30px;
+        margin-top: 40px;
+        
+
+
+    }
+    #get-start{
+       margin-top: 12px;
+    }
+    .products{
+        background-color: #e8ecef;
+        margin-top: 50px;
+        margin-bottom: 30px;
+    }
+    #line{
+        width: 10px;
+        color: aqua;
+    }
+    h3{
+        margin-top: 50px;
+    }
+    .rows
+    {
+        margin-top: 30px;
+    }
+    .navbar{
+        background: rgba(0,0,0,0.2);
+        opacity: 0.9;
+        font-family: Roboto ;
+        letter-spacing: 1px;
+    }
+    .hardwar .img-left{
+        float: left;
+        border-radius: 50%;
+        
+    }
+    .mani-ram .img-left{
+        float: left;
+        border-radius: 50%;
+        
+    }
+    
+    .contactUs{
+        background-color: #e8ecef;
+       
+        margin-bottom: 40px;
+        text-align: center;
+        padding-top: 20px;
+        padding-bottom: 60px;
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+    #contact{
+        text-align: center;
+        margin-top: 40px;
+        margin-left: 30px;
+        margin-right: 30px;
+        margin-bottom: 40px;
+       
+    }
+    .footer{
+        text-align: center;
+        background-color: #40474f;
+        padding-top: 60px;
+        padding-bottom: 60px;
+        margin-top: -40px;
+        color: white;
+    }
+    hr{
+        border-top: 1px solid #69c1ab; 
+        width: 380px; 
+        margin-left: 200px;
+    }
+    #hardwar-line
+    {
+        width: 400px;    
+    }
+    li{
+        padding-left: 15px;
+    }
+    #btn2{
+        color: #000;
+    background-color: #e8ecef;
+    border-color: #000; /*set the color you want here*/
+    }
+    #btn2:hover, #btn2:focus, #btn2:active, #btn2.active, .open>.dropdown-toggle#btn2 {
+    color: #000;
+    background-color: #fff;
+    border-color: #000; /*set the color you want here*/
+}
+    .btn-outline-primary {
+    color: #fff;
+
+    border-color: #000; /*set the color you want here*/
+    }
+    .btn-outline-primary:hover, .btn-outline-primary:focus, .btn-outline-primary:active, .btn-outline-primary.active, .open>.dropdown-toggle.btn-outline-primary {
+    color: #000;
+    background-color: #fff;
+    border-color: #fff; /*set the color you want here*/
+}
+    
