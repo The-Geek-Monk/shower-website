@@ -8,7 +8,9 @@ h6{
 
 body {
   background-image: url('bathroom.jpg');
-  
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .card-signin {
